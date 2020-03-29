@@ -1,4 +1,8 @@
 # vue-jest
+## references
+https://vue-test-utils.vuejs.org/ja/
+
+https://github.com/lmiller1990/vue-testing-handbook/tree/master/src/ja
 
 ## Project setup
 ```
